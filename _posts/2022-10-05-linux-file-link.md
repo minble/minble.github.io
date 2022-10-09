@@ -34,7 +34,7 @@ total 12
 ```
 그림으로 살펴보면 아래와 같은 구조입니다.
 
-<img src="posts/2022-10-05-symbolic-link.png" alt="symbolic link" style="zoom: 67%;" />
+![symbolic link](posts/2022-10-05-symbolic-link.svg)
 
 ### 심볼릭 링크 수정하기
 ```bash
@@ -92,7 +92,7 @@ total 16
 ```
 그림으로 살펴보면 아래와 같은 구조입니다.
 
-<img src="posts/2022-10-05-hard-link.png" alt="hard link" style="zoom: 67%;" />
+![hard link](posts/2022-10-05-hard-link.svg)
 
 ### 하드 링크 수정하기
 ```bash
